@@ -1,0 +1,28 @@
+{
+  "name": "binanceapi",
+  "version": "1.0.0",
+  "description": "call binance API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaohangHung/binanceAPI.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaohangHung/binanceAPI/issues"
+  },
+  "homepage": "https://github.com/ShaohangHung/binanceAPI#readme",
+  "dependencies": {
+    "@binance/connector": "^1.5.0",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2",
+    "url": "^0.11.0"
+  }
+}
